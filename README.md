@@ -27,15 +27,15 @@
 <!-- STATS BADGES (Blue Theme)                               -->
 <!-- ======================================================= -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Aikantic?label=Followers&logo=github&style=for-the-badge&color=0077B6&labelColor=0a192f" alt="Followers Badge" />
-  <img src="https://img.shields.io/badge/Stars-Aikantic-0077B6?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=0a192f" alt="Stars Badge" />
-  <img src="https://komarev.com/ghpvc/?username=Aikantic&label=PROFILE+VIEWS&style=for-the-badge&color=0077B6" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Red-1610?label=Followers&logo=github&style=for-the-badge&color=0077B6&labelColor=0a192f" alt="Followers Badge" />
+  <img src="https://img.shields.io/badge/Stars-Red--1610-0077B6?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=0a192f" alt="Stars Badge" />
+  <img src="https://komarev.com/ghpvc/?username=Red-1610&label=PROFILE+VIEWS&style=for-the-badge&color=0077B6" alt="Profile Views" />
 </p>
 
 <br />
 
 <!-- ======================================================= -->
-<!-- ABOUT ME (65% Text / 35% Visual with Video / GIF)       -->
+<!-- ABOUT ME (65% Text / 35% Visual)                        -->
 <!-- ======================================================= -->
 <table align="center" width="100%" border="0">
   <tr>
@@ -52,10 +52,6 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- 
-        GitHub README Note: For full cross-device browser autoplay on GitHub profile READMEs,
-        convert this clip to an optimized .gif (e.g., assets/trainer-walk.gif) or host the mp4 raw asset.
-      -->
       <video src="assets/trainer-walk.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 12px; display: block;"></video>
     </td>
   </tr>
@@ -79,15 +75,23 @@
 
 <!-- ======================================================= -->
 <!-- GITHUB STREAK & ACTIVITY GRAPH (Custom Red Theme)       -->
+<!-- Palette: #D2042D, #CC252C, #F7022A                      -->
 <!-- ======================================================= -->
 <div align="center">
   <h2>📊 Activity & Stats</h2>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aikantic&theme=dark&background=0d1117&border=D2042D&stroke=CC252C&ring=F7022A&fire=D2042D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F7022A&dates=8b949e" alt="GitHub Streak Stats" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Red-1610&theme=dark&background=0d1117&border=D2042D&stroke=CC252C&ring=F7022A&fire=D2042D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F7022A&dates=8b949e" alt="GitHub Streak" />
   
   <br /><br />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aikantic&theme=github-compact&bg_color=0d1117&color=F7022A&line=D2042D&point=ffffff&area=true&hide_border=false&border_color=D2042D" alt="Aikantic Activity Graph" width="95%" />
+  <!-- GitHub Readme Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Red-1610&show_icons=true&theme=dark&bg_color=0d1117&title_color=F7022A&icon_color=D2042D&text_color=ffffff&border_color=D2042D" alt="GitHub Stats" />
+
+  <br /><br />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Red-1610&theme=github-compact&bg_color=0d1117&color=F7022A&line=D2042D&point=ffffff&area=true&hide_border=false&border_color=D2042D" alt="Activity Graph" width="95%" />
 </div>
 
 <br />
@@ -99,9 +103,9 @@
   <h2>🐍 Contribution Graph Eater</h2>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aikantic/Aikantic/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aikantic/Aikantic/output/github-snake.svg">
-    <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/Aikantic/Aikantic/output/github-snake.svg" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Red-1610/Red-1610/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Red-1610/Red-1610/output/github-snake.svg">
+    <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/Red-1610/Red-1610/output/github-snake.svg" width="95%" />
   </picture>
 </div>
 
@@ -114,12 +118,12 @@
   <h2>🌐 Let's Connect</h2>
   <p>Find me on the web</p>
   
-  <a href="https://www.linkedin.com/in/aikantic-maitra-118b48362" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=flat-square" height="30" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aikantic-maitra-118b48362" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=flat-square" height="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/aikantic78482" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=X%20(Twitter)&color=111111&logo=x&logoColor=white&style=flat-square" height="30" alt="X" />
+  <a href="https://x.com/aikantic78482" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?label=&message=X%20(Twitter)&color=111111&logo=x&logoColor=white&style=flat-square" height="32" alt="X" />
   </a>
 </div>
 
