@@ -47,7 +47,7 @@
       <ul>
         <li>🌱 <strong>Currently exploring:</strong> Distributed Systems, Cloud-Native Microservices, and LLM integrations.</li>
         <li>💻 <strong>Core Focus:</strong> Scalable web infrastructure, APIs, and modern frontend pipelines.</li>
-        <li>⚡ <strong>Philosophy:</strong> <em>"Make it work, make it right, make it fast."</em></li>
+        <li>⚡ <strong>Philosophy:</strong> <em>"Slow but steady wins the Race"</em></li>
         <li>🎯 <strong>Goals:</strong> Contribute to tier-1 open-source initiatives and build impactful developer tools.</li>
       </ul>
     </td>
