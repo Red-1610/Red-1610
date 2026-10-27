@@ -37,11 +37,12 @@
       <p>
         I'm a passionate technologist focused on crafting resilient backend systems and system design with intuitive user experiences, and exploring cutting-edge distributed architectures. Driven by curiosity and clean design patterns.
       </p>
+      <p>mastered ML algos and ML engineering with AI systems and basic to moderate backend systems with scalable designs </p>
       <ul>
         <li>🌱 <strong>Currently exploring:</strong> Distributed Systems, Cloud-Native Microservices, and LLM integrations.</li>
         <li>💻 <strong>Core Focus:</strong> Scalable web infrastructure, APIs, and modern frontend pipelines.</li>
         <li>⚡ <strong>Philosophy:</strong> <em>"Slow but steady wins the Race"</em></li>
-        <li>🎯 <strong>Goals:</strong> Contribute to tier-1 open-source initiatives and build impactful developer tools.</li>
+        <li>🎯 <strong>Goals:</strong> Contribute to tier-1 open-source initiatives and build impactful developer tools and Private services.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
