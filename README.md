@@ -37,7 +37,7 @@
       <p>
         I'm a passionate technologist focused on crafting resilient backend systems and system design with intuitive user experiences, and exploring cutting-edge distributed architectures. Driven by curiosity and clean design patterns.
       </p>
-      <p>mastered ML algos and ML engineering with AI systems and basic to moderate backend systems with scalable designs </p>
+      <p>Mastered ML algos and ML engineering with AI systems and basic to moderate backend systems with scalable designs </p>
       <ul>
         <li>🌱 <strong>Currently exploring:</strong> Distributed Systems, Cloud-Native Microservices, and LLM integrations.</li>
         <li>💻 <strong>Core Focus:</strong> Scalable web infrastructure, APIs, and modern frontend pipelines.</li>
@@ -126,3 +126,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D2042D&height=120&section=footer" width="100%" alt="Footer Wave" />
 </p>
+<p>2027 </p>
