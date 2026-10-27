@@ -35,7 +35,7 @@
     <td width="65%" valign="top">
       <h3>🚀 About Me</h3>
       <p>
-        I'm a passionate technologist focused on crafting resilient backend systems, intuitive user experiences, and exploring cutting-edge distributed architectures. Driven by curiosity and clean design patterns.
+        I'm a passionate technologist focused on crafting resilient backend systems and system design with intuitive user experiences, and exploring cutting-edge distributed architectures. Driven by curiosity and clean design patterns.
       </p>
       <ul>
         <li>🌱 <strong>Currently exploring:</strong> Distributed Systems, Cloud-Native Microservices, and LLM integrations.</li>
