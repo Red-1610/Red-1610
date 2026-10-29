@@ -35,14 +35,13 @@
     <td width="65%" valign="top">
       <h3>🚀 About Me</h3>
       <p>
-        I'm a passionate technologist focused on crafting resilient backend systems and system design with intuitive user experiences, and exploring cutting-edge distributed architectures. Driven by curiosity and clean design patterns.
+        I am a systems-focused backend engineer dedicated to crafting resilient, distributed architectures for data-intensive applications. Driven by clean design patterns and structural efficiency, I specialize in building scalable web infrastructure that handles complex workflows deterministically.
       </p>
-      <p>Mastered ML algos and ML engineering with AI systems and basic to moderate backend systems with scalable designs </p>
       <ul>
-        <li>🌱 <strong>Currently exploring:</strong> Distributed Systems, Cloud-Native Microservices, and LLM integrations.</li>
-        <li>💻 <strong>Core Focus:</strong> Scalable web infrastructure, APIs, and modern frontend pipelines.</li>
-        <li>⚡ <strong>Philosophy:</strong> <em>"Slow but steady wins the Race"</em></li>
-        <li>🎯 <strong>Goals:</strong> Contribute to tier-1 open-source initiatives and build impactful developer tools and Private services.</li>
+        <li>💻 <strong>Core Focus:</strong> Scalable microservices, high-throughput API infrastructure, and robust backend engineering.</li>
+        <li>🌱 <strong>Currently Exploring:</strong> Distributed systems orchestration, cloud-native data pipelines, and resource-efficient runtime execution.</li>
+        <li>⚡ <strong>Philosophy:</strong> <em>"Slow but steady wins the race"</em> — prioritizing deliberate architectural design over fragile boilerplate.</li>
+        <li>🎯 <strong>Goals:</strong> Contribute to tier-1 open-source initiatives and engineer high-impact developer tooling and private services.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -61,7 +60,6 @@
   <h2>🛠️ Tech Stack & Arsenal</h2>
   <p>Languages, Frameworks, and Tools I work with daily</p>
 
-<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,python,rust,fastapi,go,docker,kubernetes,postgres,mongodb,redis,git,github,aws,linux,tailwind,graphql&perline=10" alt="Tech Stack Icons" />
   </a>
@@ -111,11 +109,11 @@
   <p>Find me on the web</p>
 
   <a href="https://www.linkedin.com/in/aikantic-maitra-118b48362" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=flat-square" height="32" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=D2042D&logo=linkedin&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/aikantic78482" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?label=&message=X%20(Twitter)&color=111111&logo=x&logoColor=white&style=flat-square" height="32" alt="X" />
+    <img src="https://img.shields.io/static/v1?label=&message=X&color=1a1a1a&logo=x&logoColor=white&style=for-the-badge" height="32" alt="X" />
   </a>
 </div>
 
@@ -127,4 +125,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D2042D&height=120&section=footer" width="100%" alt="Footer Wave" />
 </p>
-<p>2027 </p>
