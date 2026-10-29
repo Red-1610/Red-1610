@@ -61,8 +61,9 @@
   <h2>🛠️ Tech Stack & Arsenal</h2>
   <p>Languages, Frameworks, and Tools I work with daily</p>
 
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,go,docker,kubernetes,postgres,mongodb,redis,git,github,aws,linux,tailwind,graphql&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,python,rust,fastapi,go,docker,kubernetes,postgres,mongodb,redis,git,github,aws,linux,tailwind,graphql&perline=10" alt="Tech Stack Icons" />
   </a>
 </div>
 
