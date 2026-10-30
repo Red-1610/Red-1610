@@ -1,3 +1,4 @@
+
 <!-- ======================================================= -->
 <!-- HEADER / BANNER                                         -->
 <!-- ======================================================= -->
@@ -32,24 +33,50 @@
 <!-- ======================================================= -->
 <table align="center" width="100%" border="0">
   <tr>
-    <td width="65%" valign="top">
-      <h3>🚀 About Me</h3>
+    <td width="70%" valign="top">
+      <h3>⚙️ Systems & Backend Engineer | Aspiring Quantum Infrastructure Researcher</h3>
+
       <p>
-        I am a systems-focused backend engineer dedicated to crafting resilient, distributed architectures for data-intensive applications. Driven by clean design patterns and structural efficiency, I specialize in building scalable web infrastructure that handles complex workflows deterministically.
+        Systems-focused backend engineer specializing in deterministic,
+        high-throughput infrastructure and distributed architectures.
+        I design low-level services in C/C++ and Python, emphasizing
+        cache efficiency, concurrency primitives, and crash-resilient
+        storage engines rather than fragile application boilerplate.
       </p>
-      <ul>
-        <li>💻 <strong>Core Focus:</strong> Scalable microservices, high-throughput API infrastructure, and robust backend engineering.</li>
-        <li>🌱 <strong>Currently Exploring:</strong> Distributed systems orchestration, cloud-native data pipelines, and resource-efficient runtime execution.</li>
-        <li>⚡ <strong>Philosophy:</strong> <em>"Slow but steady wins the race"</em> — prioritizing deliberate architectural design over fragile boilerplate.</li>
-        <li>🎯 <strong>Goals:</strong> Contribute to tier-1 open-source initiatives and engineer high-impact developer tooling and private services.</li>
-      </ul>
+
+      <p>
+        Currently channeling low-latency systems and compiler fundamentals
+        toward <strong>Quantum Systems R&D</strong> — preparing to tackle
+        classical simulation runtimes, graph-based circuit transpilation
+        passes, and real-time quantum error-correction (QEC) decoding pipelines.
+      </p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- GitHub strips autoplay/loop from <video>, so use a GIF instead -->
+
+    <td width="30%" align="center" valign="middle">
       <img src="assets/trainer-walk.gif" alt="Walking animation" width="100%" />
     </td>
   </tr>
 </table>
+
+<br />
+
+<h3>🚀 Featured Systems Work</h3>
+
+**AST-Based Blast Radius & Impact Analysis Engine**
+
+- Traverses Abstract Syntax Trees (ASTs) to compute dependency graphs and code change blast radiuses across multi-file repositories.
+- Eliminates fragile static regex matching by parsing syntax directly into deterministic dependency graphs for impact analysis and CI/CD gates.
+- **Stack:** Python AST / Systems Runtimes, FastAPI, Cloud Orchestration.
+
+<br />
+
+<h3>🔬 Current Focus & Research Roadmap</h3>
+
+- **Systems Engineering:** Low-latency execution, memory optimization, concurrency primitives, and crash-resilient storage.
+- **Compiler Fundamentals:** AST analysis, intermediate representations (IR), graph-based optimization, and transpilation.
+- **Quantum Infrastructure:** Classical quantum circuit simulation, quantum compiler infrastructure, and circuit execution runtimes.
+- **Quantum Error Correction:** Exploring real-time QEC decoding algorithms and low-latency decoding architectures.
+- **Distributed Systems:** Deterministic execution, scalable orchestration, and high-throughput infrastructure.
 
 <br />
 
@@ -58,10 +85,10 @@
 <!-- ======================================================= -->
 <div align="center">
   <h2>🛠️ Tech Stack & Arsenal</h2>
-  <p>Languages, Frameworks, and Tools I work with daily</p>
+  <p>Core languages, infrastructure, and systems tools</p>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,python,rust,fastapi,go,docker,kubernetes,postgres,mongodb,redis,git,github,aws,linux,tailwind,graphql&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,ts,python,aws,docker,kubernetes,nginx,postgres,git,linux&perline=6" alt="Tech Stack Icons" />
   </a>
 </div>
 
