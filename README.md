@@ -35,12 +35,12 @@
     <td width="65%" valign="top">
       <h3>🚀 About Me</h3>
       <p>
-        I am a systems-focused backend engineer dedicated to crafting resilient, distributed architectures for data-intensive applications. Driven by clean design patterns and structural efficiency, I specialize in building scalable web infrastructure that handles complex workflows deterministically.
+        I am a systems-focused backend engineer dedicated to crafting resilient, distributed architectures for data-intensive applications. My engineering approach prioritizes memory predictability, concurrency primitives, and deterministic execution over fragile framework abstraction.
       </p>
       <ul>
-        <li>💻 <strong>Core Focus:</strong> Scalable microservices, high-throughput API infrastructure, and robust backend engineering.</li>
-        <li>🌱 <strong>Currently Exploring:</strong> Distributed systems orchestration, cloud-native data pipelines, and resource-efficient runtime execution.</li>
-        <li>⚡ <strong>Philosophy:</strong> <em>"Slow but steady wins the race"</em> — prioritizing deliberate architectural design over fragile boilerplate.</li>
+        <li><strong>Core Focus:</strong> Scalable microservices, high-throughput API infrastructure, and robust backend engineering.</li>
+        <li><strong>Currently Exploring:</strong> Distributed systems orchestration, cloud-native data pipelines, and resource-efficient runtime execution and Quantum Coumputing essentials.</li>
+        <li><strong>Philosophy:</strong> <em>"Slow but steady wins the race"</em> — prioritizing deliberate architectural design over fragile boilerplate.</li>
         <li>🎯 <strong>Goals:</strong> Contribute to tier-1 open-source initiatives and engineer high-impact developer tooling and private services.</li>
       </ul>
     </td>
@@ -60,7 +60,7 @@
   <p>Languages, Frameworks, and Tools I work with daily</p>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,python,rust,fastapi,go,docker,kubernetes,postgres,mongodb,redis,git,github,aws,linux,tailwind,graphql&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,python,rust,fastapi,go,docker,kubernetes,postgres,mongodb,redis,git,github,aws,linux&perline=10" alt="Tech Stack Icons" />
   </a>
 </div>
 
